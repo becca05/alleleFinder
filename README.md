@@ -1,2 +1,4 @@
-# alleleFinder-v0.01
+# alleleFinder
+Standard medical genetics database primarily includes disease and standard sequences for caucasian individuals, however, access to appropriate population-based genomic variant annotation may help accelerate the interpretation of genomic sequencing data. We created the Github alleleFinder repository to provide researchers access to somatic mutation's allele frequencies in African, Latino/Admixed American, Ashkenazi Jewish, East Asian, Finnish European, Estonian, North-Western European and Southern European individuals. We used publicly available data from the Catalogue Of Somatic Mutations In Cancer (COSMIC v96) and Genome Aggregation Database (GnomAD) from the Linkage disequilibrium V2 to find the mutation's allele frequencies. This repository may help researchers identify common population variants for somatic gene mutations and assist researchers in annotating genomic sequencing data for populations. 
+
  
